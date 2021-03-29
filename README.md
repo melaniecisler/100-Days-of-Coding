@@ -419,9 +419,9 @@ my github portfolio.
 
 ### Day 52: March 25, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Udemy The git and Github by Coly Steele
 
-**Thoughts:**  Section
+**Thoughts:**  Section 18
 
 **Link to work:** none
 
