@@ -475,9 +475,9 @@ my github portfolio.
 
 ### Day 59: April 1, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
-**Thoughts:**  Section
+**Thoughts:**  Section 34
 
 **Link to work:** none
 
