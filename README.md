@@ -499,9 +499,9 @@ my github portfolio.
 
 ### Day 62: April 4, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Udemy AWS Certified Cloud Practitioner 2019 by Andrew Brown 
 
-**Thoughts:**  Section
+**Thoughts:**  45% complete 
 
 **Link to work:** none
 
