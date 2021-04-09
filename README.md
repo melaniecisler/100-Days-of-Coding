@@ -523,9 +523,9 @@ my github portfolio.
 
 ### Day 65: April 7, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: LinkedIn Learning Microsoft Azure "The Big Picture" by Walt Ritscher
 
-**Thoughts:**  Section
+**Thoughts:**  Section Intro, 1, 2
 
 **Link to work:** none
 
