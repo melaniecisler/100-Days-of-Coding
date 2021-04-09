@@ -515,9 +515,9 @@ my github portfolio.
 
 ### Day 64: April 6, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: LinkedIn Learning Microsoft Azure by Xian Ke
 
-**Thoughts:**  Section
+**Thoughts:**  Complete Overview 
 
 **Link to work:** none
 
