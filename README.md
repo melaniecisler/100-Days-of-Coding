@@ -537,7 +537,7 @@ my github portfolio.
 
 **Link to work:** none
 
-### Day 67: April 8, 2021 
+### Day 67: April 9, 2021 
 
 **Today's Progress**: LinkedIn Learning Microsoft Azure "Understanding The Big Picture" by Walt Ritscher
 
@@ -545,4 +545,10 @@ my github portfolio.
 
 **Link to work:** none
 
+### Day 68: April 10, 2021 
 
+**Today's Progress**: LinkedIn Learning Microsoft Azure "Understanding The Big Picture" by Walt Ritscher
+
+**Thoughts:**  Section 8, 9 COMPLETE
+
+**Link to work:** none
