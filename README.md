@@ -552,3 +552,11 @@ my github portfolio.
 **Thoughts:**  Section 8, 9 COMPLETE
 
 **Link to work:** none
+
+### Day 69: April 11, 2021 
+
+**Today's Progress**: LinkedIn Learning: Agile Software Development by Shashi Shekhar
+
+**Thoughts:**  Intro, 1, 2 
+
+**Link to work:** none
