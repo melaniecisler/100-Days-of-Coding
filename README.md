@@ -573,9 +573,9 @@ my github portfolio.
 ### Day 71: April 13, 2021 
 
 **Today's Progress**: LinkedIn Learning: Build a Flash Card App with Vanilla JS and Bootstrap
+                      LinkedIn Learning: Build A Public transport App With jQuery
 
 **Thoughts:**  Completed
 
 **Link to work:** none
-
 
