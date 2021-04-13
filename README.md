@@ -577,5 +577,6 @@ my github portfolio.
 
 **Thoughts:**  Completed
 
-**Link to work:** none
+**Additionally:** LinkedIn Learning: Learning The Javascript Language => Intro, 1, 2 
+    
 
