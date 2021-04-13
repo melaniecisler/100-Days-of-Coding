@@ -560,3 +560,12 @@ my github portfolio.
 **Thoughts:**  Intro, 1, 2 
 
 **Link to work:** none
+
+
+### Day 70: April 12, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
+
+**Thoughts:**  Section 38
+
+**Link to work:** none
