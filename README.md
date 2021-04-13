@@ -569,3 +569,13 @@ my github portfolio.
 **Thoughts:**  Section 38
 
 **Link to work:** none
+
+### Day 71: April 13, 2021 
+
+**Today's Progress**: LinkedIn Learning: Build a Flash Card App with Vanilla JS and Bootstrap
+
+**Thoughts:**  Completed
+
+**Link to work:** none
+
+
