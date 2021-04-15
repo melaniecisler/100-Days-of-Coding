@@ -597,7 +597,7 @@ my github portfolio.
 
 ### Day 74: April 16, 2021 
 
-**Today's Progress**: LinkedIn Learning: Web API's
+**Today's Progress**: LinkedIn Learning: Intro To Web API's by Andrew Probert
 
 **Thoughts:**  Sections
 
