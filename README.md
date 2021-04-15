@@ -586,3 +586,11 @@ my github portfolio.
 **Thoughts:**  Section Intro, 1, 2, 3, 4 
 
 **Link to work:** none
+
+### Day 73: April 15, 2021 
+
+**Today's Progress**: LinkedIn Learning: Azure For Developers: Resource Planning
+
+**Thoughts:**  Section 5, 6, 7, 8
+
+**Link to work:** none
