@@ -594,3 +594,11 @@ my github portfolio.
 **Thoughts:**  Section 5, 6, 7, 8
 
 **Link to work:** none
+
+### Day 74: April 16, 2021 
+
+**Today's Progress**: LinkedIn Learning: Web API's
+
+**Thoughts:**  Sections
+
+**Link to work:** none
