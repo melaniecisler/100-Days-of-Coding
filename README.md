@@ -579,4 +579,10 @@ my github portfolio.
 
 **Additionally:** LinkedIn Learning: Learning The Javascript Language => Intro, 1, 2 
     
+### Day 72: April 14, 2021 
 
+**Today's Progress**: LinkedIn Learning: Azure For Developers: Resource Planning
+
+**Thoughts:**  Section Intro, 1, 2, 3, 4 
+
+**Link to work:** none
