@@ -599,6 +599,8 @@ my github portfolio.
 
 **Today's Progress**: LinkedIn Learning: Intro To Web API's by Andrew Probert
 
-**Thoughts:**  Sections
+**Thoughts:**  Complete
 
 **Link to work:** none
+
+
