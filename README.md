@@ -618,3 +618,11 @@ my github portfolio.
 **Thoughts:**  Complete
 
 **Link to work:** none
+
+### Day 77: April 19, 2021 
+
+**Today's Progress**: LinkedIn Learning: C# Essential Training by Bruce Van Horn
+
+**Thoughts:**  Intro, 1, 2, 3 
+
+**Link to work:** none
