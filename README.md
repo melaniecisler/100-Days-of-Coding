@@ -613,7 +613,7 @@ my github portfolio.
 
 ### Day 76: April 18, 2021 
 
-**Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services
+**Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services by Kesha Williams
 
 **Thoughts:**  Complete
 
