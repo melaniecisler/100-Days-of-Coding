@@ -607,6 +607,14 @@ my github portfolio.
 
 **Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services
 
-**Thoughts:**  
+**Thoughts:**  Intro, 1, 2, 3 
+
+**Link to work:** none
+
+### Day 76: April 18, 2021 
+
+**Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services
+
+**Thoughts:**  Complete
 
 **Link to work:** none
