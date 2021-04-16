@@ -603,4 +603,10 @@ my github portfolio.
 
 **Link to work:** none
 
+### Day 75: April 17, 2021 
 
+**Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services
+
+**Thoughts:**  
+
+**Link to work:** none
