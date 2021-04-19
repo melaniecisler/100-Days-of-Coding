@@ -633,4 +633,8 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
+**Today's Progress**: LinkedIn Learning: React JS Essential Training by Eve Porcello
+
+**Thoughts:**  Complete
+
 **Link to work:** none
