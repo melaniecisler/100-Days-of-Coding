@@ -639,3 +639,11 @@ my github portfolio.
 
 **Link to work:** https://eti5s.csb.app/  "Garden_List"
 **Projet: ** Made a simple React-App using react.new which gives you a sandbox then i attached it to github. This app let's you add and delete your garden supplies and where you want to put them. 
+
+### Day 79: April 20, 2021 
+
+**Today's Progress**: LinkedIn Learning:  Azure For Developers: Resource Planning by Matt Milner
+
+**Thoughts:**  Complete
+
+**Link to work:** none
