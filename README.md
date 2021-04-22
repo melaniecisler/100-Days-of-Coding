@@ -547,7 +547,7 @@ my github portfolio.
 
 ### Day 68: April 10, 2021 
 
-**Today's Progress**: LinkedIn Learning Microsoft Azure "Understanding The Big Picture" by Walt Ritscher
+**Today's Progress**: LinkedIn Learning: (Azure Developer Path 1/6) Understanding The Big Picture by Walt Ritscher
 
 **Thoughts:**  Section 8, 9 COMPLETE
 
@@ -581,7 +581,7 @@ my github portfolio.
     
 ### Day 72: April 14, 2021 
 
-**Today's Progress**: LinkedIn Learning: Azure For Developers: Resource Planning
+**Today's Progress**: LinkedIn Learning: (Azure Developer Path 2/6) Azure For Developers: Resource Planning
 
 **Thoughts:**  Section Intro, 1, 2, 3, 4 
 
@@ -589,7 +589,7 @@ my github portfolio.
 
 ### Day 73: April 15, 2021 
 
-**Today's Progress**: LinkedIn Learning: Azure For Developers: Resource Planning
+**Today's Progress**: LinkedIn Learning: (Azure Developer Path 2/6) Azure For Developers: Resource Planning
 
 **Thoughts:**  Section 5, 6, 7, 8
 
@@ -633,16 +633,16 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
-**Today's Progress**: LinkedIn Learning: (React Developer Path Step 1) React JS Essential Training by Eve Porcello
+**Today's Progress**: LinkedIn Learning: (React Developer Path Step 1/6) React JS Essential Training by Eve Porcello
 
 **Thoughts:**  Complete
 
 **Link to work:** https://eti5s.csb.app/  "Garden_List"
-**Projet: ** Made a simple React-App using react.new which gives you a sandbox then i attached it to github. This app let's you add and delete your garden supplies and where you want to put them. 
+**Project: ** Made a simple React-App using react.new which gives you a sandbox then i attached it to github. This app let's you add and delete your garden supplies and where you want to put them. 
 
 ### Day 79: April 20, 2021 
 
-**Today's Progress**: LinkedIn Learning:  Azure For Developers: Resource Planning by Matt Milner
+**Today's Progress**: LinkedIn Learning:  (Azure Developer Path 2/6) Azure For Developers: Resource Planning by Matt Milner
 
 **Thoughts:**  Complete
 
