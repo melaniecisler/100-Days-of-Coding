@@ -655,3 +655,11 @@ my github portfolio.
 **Thoughts:**  Start
 
 **Link to work:** none
+
+### Day 81: April 22, 2021 
+
+**Today's Progress**: LinkedIn Learning:  Using Docker and .Net Core by Shayne Boyer
+
+**Status:** Complete
+
+**Link to work:** none
