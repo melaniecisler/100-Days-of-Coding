@@ -647,3 +647,11 @@ my github portfolio.
 **Thoughts:**  Complete
 
 **Link to work:** none
+
+### Day 80: April 21, 2021 
+
+**Today's Progress**: LinkedIn Learning:  Building Modern Projects With React 
+
+**Thoughts:**  Start
+
+**Link to work:** none
