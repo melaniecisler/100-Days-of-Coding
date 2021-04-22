@@ -633,7 +633,7 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
-**Today's Progress**: LinkedIn Learning: React JS Essential Training by Eve Porcello
+**Today's Progress**: LinkedIn Learning: (React Developer Path Step 1) React JS Essential Training by Eve Porcello
 
 **Thoughts:**  Complete
 
@@ -661,5 +661,13 @@ my github portfolio.
 **Today's Progress**: LinkedIn Learning:  Using Docker and .Net Core by Shayne Boyer
 
 **Status:** Complete
+
+**Link to work:** none
+
+### Day 82: April 23, 2021 
+
+**Today's Progress**: LinkedIn Learning:  (React Developer Path Step 2) React.js Building An Interface by  Ray Villalobos
+
+**Status:** Start 
 
 **Link to work:** none
