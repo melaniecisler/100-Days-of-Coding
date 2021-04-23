@@ -668,6 +668,6 @@ my github portfolio.
 
 **Today's Progress**: LinkedIn Learning:  (React Developer Path Step 2) React.js Building An Interface by  Ray Villalobos
 
-**Status:** Start 
+**Status:** Complete 
 
 **Link to work:** none
