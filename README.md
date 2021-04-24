@@ -671,3 +671,11 @@ my github portfolio.
 **Status:** Complete 
 
 **Link to work:** none
+
+### Day 83: April 24, 2021 
+
+**Today's Progress**: LinkedIn Learning:  (React Developer Path Step 3) React.js Creating And Hosting A Full Stack Site by Shaun Wassell
+
+**Status:** Complete 
+
+**Link to work:** none
