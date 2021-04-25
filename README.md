@@ -679,3 +679,12 @@ my github portfolio.
 **Status:** Complete 
 
 **Link to work:** none
+
+### Day 84: April 25, 2021 
+
+**Today's Progress**: LinkedIn Learning:  (React Developer Path Step 4) React: Ecosystems By: Emmanuel Henri
+
+**Status:** Complete React Developer Path
+
+**Link to work:** none
+
