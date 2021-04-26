@@ -688,3 +688,11 @@ my github portfolio.
 
 **Link to work:** none
 
+### Day 85: April 26, 2021 
+
+**Today's Progress**: LinkedIn Learning:  First Look: .NET 5 By: Walt Ritscher 
+
+**Status:** Complete 
+
+**Link to work:** none
+
