@@ -696,3 +696,11 @@ my github portfolio.
 
 **Link to work:** none
 
+### Day 86: April 27, 2021 
+
+**Today's Progress**: LinkedIn Learning:  React: Testing and Debugging By: Emmanuel Henri
+
+**Status:** started
+
+**Link to work:** none
+
