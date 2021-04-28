@@ -712,3 +712,7 @@ my github portfolio.
 
 **Link to work:** none
 
+Next:
+JavaScript Essential Training by 
+Learning ECMAScript 6+(ES6+) by Eve Porcello
+JavaScript TDD (ES6)
