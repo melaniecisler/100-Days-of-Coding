@@ -375,15 +375,11 @@ my github portfolio.
 
 **Thoughts:**  Section 12
 
-**Link to work:** none
-
 ### Day 47: March 20, 2021 
 
 **Today's Progress**: Udemy The git and Github by Coly Steele
 
 **Thoughts:**  Section 13
-
-**Link to work:** none
 
 ### Day 48: March 21, 2021 
 
@@ -391,15 +387,11 @@ my github portfolio.
 
 **Thoughts:**  Section 14
 
-**Link to work:** none
-
 ### Day 49: March 22, 2021 
 
 **Today's Progress**: Udemy The git and Github by Coly Steele
 
 **Thoughts:**  Section 15
-
-**Link to work:** none
 
 ### Day 50: March 23, 2021 
 
@@ -407,15 +399,11 @@ my github portfolio.
 
 **Thoughts:**  Section 16
 
-**Link to work:** none
-
 ### Day 51: March 24, 2021 
 
 **Today's Progress**: Udemy The git and Github by Coly Steele
 
 **Thoughts:**  Section 17
-
-**Link to work:** none
 
 ### Day 52: March 25, 2021 
 
@@ -423,15 +411,11 @@ my github portfolio.
 
 **Thoughts:**  Section 18
 
-**Link to work:** none
-
 ### Day 53: March 26, 2021 
 
 **Today's Progress**: Udemy The git and Github by Coly Steele
 
 **Thoughts:**  Section 19
-
-**Link to work:** none
 
 ### Day 54: March 27, 2021 
 
@@ -439,15 +423,11 @@ my github portfolio.
 
 **Thoughts:**  Section 20 - Finished
 
-**Link to work:** none
-
 ### Day 55: March 28, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 30
-
-**Link to work:** none
 
 ### Day 56: March 29, 2021 
 
@@ -455,15 +435,11 @@ my github portfolio.
 
 **Thoughts:**  Section 31
 
-**Link to work:** none
-
 ### Day 57: March 30, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 32
-
-**Link to work:** none
 
 ### Day 58: March 31, 2021 
 
@@ -471,15 +447,11 @@ my github portfolio.
 
 **Thoughts:**  Section 33
 
-**Link to work:** none
-
 ### Day 59: April 1, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 34
-
-**Link to work:** none
 
 ### Day 60: April 2, 2021 
 
@@ -487,15 +459,11 @@ my github portfolio.
 
 **Thoughts:**  Section 35
 
-**Link to work:** none
-
 ### Day 61: April 3, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 36
-
-**Link to work:** none
 
 ### Day 62: April 4, 2021 
 
@@ -503,15 +471,11 @@ my github portfolio.
 
 **Thoughts:**  45% complete 
 
-**Link to work:** none
-
 ### Day 63: April 5, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 37
-
-**Link to work:** none
 
 ### Day 64: April 6, 2021 
 
@@ -519,15 +483,11 @@ my github portfolio.
 
 **Thoughts:**  Complete Overview 
 
-**Link to work:** none
-
 ### Day 65: April 7, 2021 
 
 **Today's Progress**: LinkedIn Learning Microsoft Azure "Understanding The Big Picture" by Walt Ritscher
 
 **Thoughts:**  Section Intro, 1, 2
-
-**Link to work:** none
 
 ### Day 66: April 8, 2021 
 
@@ -535,15 +495,11 @@ my github portfolio.
 
 **Thoughts:**  Section 3, 4, 5
 
-**Link to work:** none
-
 ### Day 67: April 9, 2021 
 
 **Today's Progress**: LinkedIn Learning Microsoft Azure "Understanding The Big Picture" by Walt Ritscher
 
 **Thoughts:**  Section 6, 7
-
-**Link to work:** none
 
 ### Day 68: April 10, 2021 
 
@@ -551,24 +507,17 @@ my github portfolio.
 
 **Thoughts:**  Section 8, 9 COMPLETE
 
-**Link to work:** none
-
 ### Day 69: April 11, 2021 
 
 **Today's Progress**: LinkedIn Learning: Agile Software Development by Shashi Shekhar
 
 **Thoughts:**  Intro, 1, 2 
 
-**Link to work:** none
-
-
 ### Day 70: April 12, 2021 
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021 by Colt Steele
 
 **Thoughts:**  Section 38
-
-**Link to work:** none
 
 ### Day 71: April 13, 2021 
 
@@ -585,15 +534,11 @@ my github portfolio.
 
 **Thoughts:**  Section Intro, 1, 2, 3, 4 
 
-**Link to work:** none
-
 ### Day 73: April 15, 2021 
 
 **Today's Progress**: LinkedIn Learning: (Azure Developer Path 2/6) Azure For Developers: Resource Planning
 
 **Thoughts:**  Section 5, 6, 7, 8
-
-**Link to work:** none
 
 ### Day 74: April 16, 2021 
 
@@ -601,15 +546,11 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
-**Link to work:** none
-
 ### Day 75: April 17, 2021 
 
 **Today's Progress**: LinkedIn Learning: Programming Foundations: API's and Web Services
 
 **Thoughts:**  Intro, 1, 2, 3 
-
-**Link to work:** none
 
 ### Day 76: April 18, 2021 
 
@@ -617,15 +558,11 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
-**Link to work:** none
-
 ### Day 77: April 18, 2021 
 
 **Today's Progress**: LinkedIn Learning: C# Essential Training by Bruce Van Horn
 
 **Thoughts:**  Intro, 1, 2, 3 
-
-**Link to work:** none
 
 ### Day 78: April 19, 2021 
 
@@ -646,15 +583,11 @@ my github portfolio.
 
 **Thoughts:**  Complete
 
-**Link to work:** none
-
 ### Day 80: April 21, 2021 
 
 **Today's Progress**: LinkedIn Learning:  Building Modern Projects With React 
 
 **Thoughts:**  Start
-
-**Link to work:** none
 
 ### Day 81: April 22, 2021 
 
@@ -662,15 +595,11 @@ my github portfolio.
 
 **Status:** Complete
 
-**Link to work:** none
-
 ### Day 82: April 23, 2021 
 
 **Today's Progress**: LinkedIn Learning:  (React Developer Path Step 2) React.js Building An Interface by  Ray Villalobos
 
 **Status:** Complete 
-
-**Link to work:** none
 
 ### Day 83: April 24, 2021 
 
@@ -678,7 +607,6 @@ my github portfolio.
 
 **Status:** Complete 
 
-**Link to work:** none
 
 ### Day 84: April 25, 2021 
 
@@ -686,15 +614,12 @@ my github portfolio.
 
 **Status:** Complete React Developer Path
 
-**Link to work:** none
-
 ### Day 85: April 26, 2021 
 
 **Today's Progress**: LinkedIn Learning:  First Look: .NET 5 By: Walt Ritscher 
 
 **Status:** Complete 
 
-**Link to work:** none
 
 ### Day 86: April 27, 2021 
 
@@ -702,17 +627,15 @@ my github portfolio.
 
 **Status:** complete
 
-**Link to work:** none
-
 ### Day 87: April 28, 2021 
 
 **Today's Progress**: LinkedIn Learning:  Software Development Life Cycle (SDLC) By: Shashi Shekhar
 
 **Status:** complete
 
-**Link to work:** none
 
 Next:
-JavaScript Essential Training by 
+JavaScript Essential Training by Morten Rand-Hendriksen
+
 Learning ECMAScript 6+(ES6+) by Eve Porcello
 JavaScript TDD (ES6)
