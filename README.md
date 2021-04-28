@@ -700,7 +700,15 @@ my github portfolio.
 
 **Today's Progress**: LinkedIn Learning:  React: Testing and Debugging By: Emmanuel Henri
 
-**Status:** started
+**Status:** complete
+
+**Link to work:** none
+
+### Day 87: April 28, 2021 
+
+**Today's Progress**: LinkedIn Learning:  Software Development Life Cycle (SDLC) By: Shashi Shekhar
+
+**Status:** complete
 
 **Link to work:** none
 
