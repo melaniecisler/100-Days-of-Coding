@@ -640,3 +640,4 @@ JavaScript Essential Training by Morten Rand-Hendriksen
 Learning ECMAScript 6+(ES6+) by Eve Porcello
 JavaScript TDD (ES6)
 Become a Vanilla JS Developer learning path
+Learning JavaScript Debugging By Joe Chellman
