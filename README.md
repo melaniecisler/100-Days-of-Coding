@@ -637,9 +637,13 @@ my github portfolio.
 Next:
 JavaScript Essential Training by Morten Rand-Hendriksen
 
+### Day 89: May 4, 2021
+Version Control For Everyone by Joe Chellman
+**Status:** started
+
 Learning ECMAScript 6+(ES6+) by Eve Porcello
 JavaScript TDD (ES6)
 Become a Vanilla JS Developer learning path
 Learning JavaScript Debugging By Joe Chellman
-Version Control For Everyone by Joe Chellman
+
 Github Essential Training by Aaron Stewart
