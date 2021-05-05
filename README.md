@@ -647,6 +647,8 @@ Version Control For Everyone by Joe Chellman
 Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
 Github Essential Training by Aaron Stewart 5/5/21
 
+Learning Azure Devops 5/6/21
+
 Git Essential Training: The Basics 5/6/21
 Become An Azure Developer 5/5/21 and 5/6/21
 
