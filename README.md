@@ -643,9 +643,10 @@ my github portfolio.
 **Status:** COMPLETED
 
 **Today's Progress**: XML Essential Training by Joe Marini
+**Status:** CURRENT
 
 ### Next:
-
+HTTP Essential Training by Morten Rand-Hendriksen
 Learn API Documentation with JSON and XML
 .NET Essentials: Linq for XML
 Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
