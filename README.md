@@ -651,6 +651,9 @@ Learning Azure Devops 5/6/21
 
 Git Essential Training: The Basics 5/6/21
 Become An Azure Developer 5/5/21 and 5/6/21
+XML Essential Training by Joe Marini
+Learn API Documentation with JSON and XML
+.NET Essentials: Linq for XML
 
 Become a Vanilla JS Developer learning path 5/6/21
 Software Testing Foundation: Bug Writing and Management by Mike Fine 5/6/21
