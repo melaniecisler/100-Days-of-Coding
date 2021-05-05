@@ -653,6 +653,15 @@ Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
 Github Essential Training by Aaron Stewart 5/5/21
 
 All things API web services 
+Learning Path Become an ASP.NET Developer
+Learning Path Become a RESTful API Developer
+Learn REST APIs
+API testing Foundations
+React Workign with APIs
+Javascript Modern Browser APIs
+Azure for developers API Management 
+Migrating to azure
+
 
 Learning Azure Devops 5/6/21
 
