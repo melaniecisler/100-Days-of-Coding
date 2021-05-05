@@ -628,19 +628,22 @@ my github portfolio.
 **Status:** complete
 
 ### Day 87: April 28, 2021 
-
 **Today's Progress**: LinkedIn Learning:  Software Development Life Cycle (SDLC) By: Shashi Shekhar
-
 **Status:** complete
 
 ### Day 88: May 2, 2021
-Next:
+**Today's Progress**:
 JavaScript Essential Training by Morten Rand-Hendriksen
 
 ### Day 89: May 4, 2021
 Version Control For Everyone by Joe Chellman
 **Status:** started
 
+### Day 90: May 5, 2021
+**Today's Progress**: JavaScript Essential Training by Morten Rand-Hendriksen
+**Status:** complete**
+
+Next:
 Learning ECMAScript 6+(ES6+) by Eve Porcello
 JavaScript TDD (ES6)
 Become a Vanilla JS Developer learning path
