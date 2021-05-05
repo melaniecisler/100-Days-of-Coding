@@ -629,6 +629,7 @@ my github portfolio.
 
 ### Day 87: April 28, 2021 
 **Today's Progress**: LinkedIn Learning:  Software Development Life Cycle (SDLC) By: Shashi Shekhar
+
 **Status:** complete
 
 ### Day 88: May 2, 2021
@@ -636,49 +637,52 @@ my github portfolio.
 
 ### Day 89: May 4, 2021
 **Today's Progress**: Version Control For Everyone by Joe Chellman
+
 **Status:** COMPLETED
 
 ### Day 90: May 5, 2021
 **Today's Progress**: JavaScript Essential Training by Morten Rand-Hendriksen
+
 **Status:** COMPLETED
 
 **Today's Progress**: XML Essential Training by Joe Marini
+
 **Status:** CURRENT
 
 ### Next:
-HTTP Essential Training by Morten Rand-Hendriksen
-Learn API Documentation with JSON and XML
-.NET Essentials: Linq for XML
-Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
-Github Essential Training by Aaron Stewart 5/5/21
+**HTTP Essential Training by Morten Rand-Hendriksen**
+**Learn API Documentation with JSON and XML**
+**.NET Essentials: Linq for XML**
+**Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21**
+**Github Essential Training by Aaron Stewart 5/5/21**
 
-All things API web services 
-Learning Path Become an ASP.NET Developer
-Learning Path Become a RESTful API Developer
-Learn REST APIs
-API testing Foundations
-React Workign with APIs
-Javascript Modern Browser APIs
-Azure for developers API Management 
-Migrating to azure
-
-
-Learning Azure Devops 5/6/21
-
-Git Essential Training: The Basics 5/6/21
-Become An Azure Developer 5/5/21 and 5/6/21
+**All things API web services**
+**Learning Path Become an ASP.NET Developer**
+**Learning Path Become a RESTful API Developer**
+**Learn REST APIs**
+**API testing Foundations**
+**React Workign with APIs**
+**Javascript Modern Browser APIs**
+**Azure for developers API Management**
+**Migrating to azure**
 
 
-Become a Vanilla JS Developer learning path 5/6/21
-Software Testing Foundation: Bug Writing and Management by Mike Fine 5/6/21
-JavaScript TDD (ES6) 5/7/21
-Programming Foundations: Software Testing/QA 5/7/21
-Learning JavaScript Debugging By Joe Chellman 5/7/21
+**Learning Azure Devops 5/6/21**
 
-Build Modern Projects With React 5/8/21
-React Testing and Debugging 5/8/21
-Become A React Native Developer 5/9/21
-React Native Essential Training 5/9/21
+**Git Essential Training: The Basics 5/6/21**
+**Become An Azure Developer 5/5/21 and 5/6/21**
+
+
+**Become a Vanilla JS Developer learning path 5/6/21**
+**Software Testing Foundation: Bug Writing and Management by Mike Fine 5/6/21**
+**JavaScript TDD (ES6) 5/7/21**
+**Programming Foundations: Software Testing/QA 5/7/21**
+**Learning JavaScript Debugging By Joe Chellman 5/7/21**
+
+**Build Modern Projects With React 5/8/21**
+**React Testing and Debugging 5/8/21**
+**Become A React Native Developer 5/9/21**
+**React Native Essential Training 5/9/21**
 
 
 
