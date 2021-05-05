@@ -632,18 +632,22 @@ my github portfolio.
 **Status:** complete
 
 ### Day 88: May 2, 2021
-**Today's Progress**:
-JavaScript Essential Training by Morten Rand-Hendriksen
+**Today's Progress**: JavaScript Essential Training by Morten Rand-Hendriksen
 
 ### Day 89: May 4, 2021
-Version Control For Everyone by Joe Chellman
-**Status:** started
+**Today's Progress**: Version Control For Everyone by Joe Chellman
+**Status:** COMPLETED
 
 ### Day 90: May 5, 2021
 **Today's Progress**: JavaScript Essential Training by Morten Rand-Hendriksen
-**Status:** complete**
+**Status:** COMPLETED
+
+**Today's Progress**: XML Essential Training by Joe Marini
 
 ###Next:
+
+Learn API Documentation with JSON and XML
+.NET Essentials: Linq for XML
 Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
 Github Essential Training by Aaron Stewart 5/5/21
 
@@ -651,9 +655,7 @@ Learning Azure Devops 5/6/21
 
 Git Essential Training: The Basics 5/6/21
 Become An Azure Developer 5/5/21 and 5/6/21
-XML Essential Training by Joe Marini
-Learn API Documentation with JSON and XML
-.NET Essentials: Linq for XML
+
 
 Become a Vanilla JS Developer learning path 5/6/21
 Software Testing Foundation: Bug Writing and Management by Mike Fine 5/6/21
