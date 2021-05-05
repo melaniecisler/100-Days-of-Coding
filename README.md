@@ -644,9 +644,11 @@ Version Control For Everyone by Joe Chellman
 **Status:** complete**
 
 Next:
-Learning ECMAScript 6+(ES6+) by Eve Porcello
-JavaScript TDD (ES6)
-Become a Vanilla JS Developer learning path
-Learning JavaScript Debugging By Joe Chellman
+Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21
+JavaScript TDD (ES6) 5/7/21
+Become a Vanilla JS Developer learning path 5/6/21
+Learning JavaScript Debugging By Joe Chellman 5/7/21
 
-Github Essential Training by Aaron Stewart
+Github Essential Training by Aaron Stewart 5/521
+React TEsting and Debuggint 5/8/21
+
