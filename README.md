@@ -662,11 +662,19 @@ my github portfolio.
 
 **Today's Progress**:HTTP Essential Training by Morten Rand-Hendriksen
 
+**Status:** COMPLETED
+
+**Programming Foundations: APIS and WebServices**
+
 **Status:** CURRENT
 
 ### Next:
 
-**APIs all over the web!!!**
+**API Testing and Validation**
+
+**Designing RESTful APIs**
+
+**Learning REST APIs**
 
 **Learn API Documentation with JSON and XML**
 
