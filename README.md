@@ -664,13 +664,11 @@ my github portfolio.
 
 **Status:** COMPLETED
 
-**Programming Foundations: APIS and WebServices**
+**API Testing and Validation**
 
 **Status:** CURRENT
 
 ### Next:
-
-**API Testing and Validation**
 
 **Designing RESTful APIs**
 
