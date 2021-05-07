@@ -647,15 +647,24 @@ my github portfolio.
 
 **Today's Progress**: XML Essential Training by Joe Marini
 
+**Status:** COMPLETED
+
+### Day 91: May 6, 2021
+**Today's Progress**: JavaScript Essential Training by Morten Rand-Hendriksen
+
+**Status:** COMPLETED
+
+**Today's Progress**:HTTP Essential Training by Morten Rand-Hendriksen
+
 **Status:** CURRENT
 
 ### Next:
 
 **APIs all over the web!!!**
 
-**HTTP Essential Training by Morten Rand-Hendriksen**
-
 **Learn API Documentation with JSON and XML**
+
+**JavaScript and AJAX**
 
 **.NET Essentials: Linq for XML**
 
