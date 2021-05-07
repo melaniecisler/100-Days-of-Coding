@@ -664,6 +664,8 @@ my github portfolio.
 
 **Status:** COMPLETED
 
+**Learn REST APIs**
+
 **Designing RESTful APIs**
 
 **Status:** CURRENT
@@ -689,8 +691,6 @@ my github portfolio.
 **Learning Path Become an ASP.NET Developer**
 
 **Learning Path Become a RESTful API Developer**
-
-**Learn REST APIs**
 
 **API testing Foundations**
 
