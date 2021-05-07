@@ -664,19 +664,19 @@ my github portfolio.
 
 **Status:** COMPLETED
 
-**API Testing and Validation**
+**Designing RESTful APIs**
 
 **Status:** CURRENT
 
 ### Next:
-
-**Designing RESTful APIs**
 
 **Learning REST APIs**
 
 **Learn API Documentation with JSON and XML**
 
 **JavaScript and AJAX**
+
+**API Testing and Validation**
 
 **.NET Essentials: Linq for XML**
 
