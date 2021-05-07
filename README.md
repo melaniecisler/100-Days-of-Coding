@@ -658,6 +658,12 @@ my github portfolio.
 
 **Status:** CURRENT
 
+### Day 92: May 7, 2021
+
+**Today's Progress**:HTTP Essential Training by Morten Rand-Hendriksen
+
+**Status:** CURRENT
+
 ### Next:
 
 **APIs all over the web!!!**
