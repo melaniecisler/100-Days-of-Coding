@@ -670,6 +670,8 @@ my github portfolio.
 
 **Today's Progress**: API Testing and Validation ***Status*** NO, USES PHP
 
+**Today's Progress**: Learning ECMAScript 6+(ES6+) by Eve Porcello **Status** CURRENT
+
 **Today's Progress**: JavaScript TDD (ES6) **Status** CURRENT
 
 ### Next:
@@ -682,7 +684,7 @@ my github portfolio.
 
 **.NET Essentials: Linq for XML**
 
-**Learning ECMAScript 6+(ES6+) by Eve Porcello 5/5/21**
+
 
 **Github Essential Training by Aaron Stewart 5/5/21**
 
