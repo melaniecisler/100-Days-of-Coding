@@ -668,7 +668,9 @@ my github portfolio.
 
 **Today's Progress**: Learn REST APIs by Morten Rand-Hendriksen **Status** COMPLETE
 
-**Today's Progress**: API Testing and Validation ***Status*** CURRENT
+**Today's Progress**: API Testing and Validation ***Status*** NO, USES PHP
+
+**Today's Progress**: JavaScript TDD (ES6) **Status** CURRENT
 
 ### Next:
 
@@ -709,8 +711,6 @@ my github portfolio.
 **Become a Vanilla JS Developer learning path 5/6/21**
 
 **Software Testing Foundation: Bug Writing and Management by Mike Fine 5/6/21**
-
-**JavaScript TDD (ES6) 5/7/21**
 
 **Programming Foundations: Software Testing/QA 5/7/21**
 
