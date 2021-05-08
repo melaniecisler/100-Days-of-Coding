@@ -664,21 +664,19 @@ my github portfolio.
 
 **Status:** COMPLETED
 
-**Learn REST APIs**
+### Day 93: May 8, 2021
 
-**Designing RESTful APIs**
+**Today's Progress**: Learn REST APIs by Morten Rand-Hendriksen **Status** COMPLETE
 
-**Status:** CURRENT
+**Today's Progress**: API Testing and Validation ***Status*** CURRENT
 
 ### Next:
 
-**Learning REST APIs**
+**Designing RESTful APIs**
 
 **Learn API Documentation with JSON and XML**
 
 **JavaScript and AJAX**
-
-**API Testing and Validation**
 
 **.NET Essentials: Linq for XML**
 
