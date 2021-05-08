@@ -674,6 +674,8 @@ my github portfolio.
 
 **Today's Progress**: JavaScript TDD (ES6) **Status** CURRENT
 
+**Today's Progress**: Developing and Delivering Software with Docker **Learning Path** **Status** CURRENT
+
 ### Next:
 
 **Designing RESTful APIs**
