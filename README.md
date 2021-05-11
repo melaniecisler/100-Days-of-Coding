@@ -670,6 +670,8 @@ my github portfolio.
 
 **Today's Progress**: API Testing and Validation ***Status*** NO, USES PHP
 
+### Day 94: May 10, 2021
+
 **Today's Progress**: Learning ECMAScript 6+(ES6+) by Eve Porcello **Status** CURRENT
 
 **Today's Progress**: JavaScript TDD (ES6) **Status** CURRENT
